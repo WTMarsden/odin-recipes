@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first website created using the odin project curriculum. This is a basic recipes website.
